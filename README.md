@@ -1,4 +1,4 @@
-# Extracting-Time-Series-properties-og-glucose-levels-in-Artificial-Pancreas
+# Extracting-Time-Series-properties-of-glucose-levels-in-Artificial-Pancreas
 Python 2.7 
 Scikit-learn 0.21.2 
 Pandas 0.25.1 
